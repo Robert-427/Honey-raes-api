@@ -53,7 +53,7 @@
     {
       "id": 2,
       "address": "56849 Fadel Gateway",
-      "phoneNumber": "202-244-7090",
+      "phoneNumber": "202-244-7091",
       "userId": 1
     },
     {
@@ -66,8 +66,8 @@
   "employees": [
     {
       "id": 1,
-      "specialty": "PC Repair",
-      "rate": 72.47,
+      "specialty": "PC Repairs",
+      "rate": 75.5,
       "userId": 4
     },
     {
@@ -85,7 +85,7 @@
     {
       "id": 4,
       "specialty": "TV Repair",
-      "rate": 47.90,
+      "rate": 47.9,
       "userId": 7
     }
   ],
@@ -95,7 +95,7 @@
       "description": "Saepe ex sapiente deserunt et voluptas fugiat vero quasi. Ipsam est non ipsa. Occaecati rerum ipsa consequuntur. Ratione commodi unde sint non rerum. Sit quia et aut sunt.",
       "emergency": false,
       "dateCompleted": "Fri Apr 29 2022 14:02:20 GMT-0500 (Central Daylight Time)",
-      "customerId": 3
+      "userId": 3
     },
     {
       "id": 2,
@@ -107,8 +107,8 @@
     {
       "id": 3,
       "userId": 1,
-      "description": "Sunt pariatur et quidem hic voluptatem. Neque aliquam voluptas eos incidunt repellendus. Vero expedita non sit quaerat sit et eum. Quasi dolor voluptatem illum eum qui est expedita sequi accusamus.",
-      "emergency": false,
+      "description": "Blue screen of death",
+      "emergency": true,
       "dateCompleted": ""
     },
     {
